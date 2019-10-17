@@ -34,7 +34,7 @@ public class Practice07Test {
 		}
 	}
 	
-	protected boolean storeManyTest(List<String> list) {
+	protected boolean storeManyTest(List<String> list){
 		// Milan Kundera
 		String[] work = {"The Joke", "Life is Elsewhere",
 				"The Book of Laughter and Forgetting", "The Unbearable Lightness of Being",
